@@ -1,0 +1,22 @@
+
+Passenger Name: Adarova Yulia
+Date of Birth: 2023-09-01
+Passport Nr: 34234
+
+E-mail: yulia@gmail.com
+Telephone: 07342342124
+
+Seat: A2
+Where from: Moscow
+Where to: Berlin
+
+Date Departure: 2023-09-01
+Time Departure: 10:00:00
+Date Arrival: 2023-09-01
+
+Time Arrival: 13:00:00
+Flight Time: 3h 0min
+
+Flight Number: JU-6564
+Plane Type: PRAETOR 600
+Purchase Date 2023-06-15 21:41:53
